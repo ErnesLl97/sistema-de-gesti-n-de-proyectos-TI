@@ -1,1 +1,1 @@
-# sistema-de-gesti-n-de-proyectos-TI
+# sistema-de-gestion-de-proyectos-TI
